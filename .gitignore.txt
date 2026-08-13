@@ -1,0 +1,9 @@
+# Arquivos de Log e Dados Pessoais
+*.csv
+log_rede_wifi.csv
+
+
+# Arquivos temporarios do Python
+__pycache__/
+*.pyc
+*.pyo
